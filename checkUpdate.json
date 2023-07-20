@@ -2,5 +2,5 @@
   "version": "3.0.0",
   "title": "New update available!",
   "description": "This is a test description.",
-  "update_command": "pip install pyrubi==3.0.0",
+  "update_command": "pip install pyrubi==3.0.0"
 }

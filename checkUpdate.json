@@ -1,6 +1,6 @@
 {
-  "version": "3.2.1",
+  "version": "3.3.1",
   "title": "New update!",
-  "description": "• The bugs were fixed\n• The API version 5 and Rubx client were added.",
-  "update_command": "pip install pyrubi==3.2.1"
+  "description": "• The bugs were fixed.",
+  "update_command": "pip install pyrubi==3.3.1"
 }
